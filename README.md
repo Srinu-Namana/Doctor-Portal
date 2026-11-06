@@ -157,5 +157,5 @@ Add your screenshots to a `screenshots` folder.
 
 **NAMANA LAKSHMI SAI MANIKANTA SRINU**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE
+- GitHub: https://github.com/Srinu-Namana
+- LinkedIn: [https://www.linkedin.com/in/namana-manikanta](https://www.linkedin.com/in/namana-manikanta-489a42375?utm_source=share_via&utm_content=profile&utm_medium=member_android)
